@@ -43,22 +43,7 @@ I love continuous learning, building projects, and experimenting with new ideas.
   A project I'm building to practice **HTML & CSS** by creating a Social Proof Section design.  
   It's still in progress... stay tuned for updates! 🔧✨  
 
----
 
-### 📊 Social Proof
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asia-negm&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asia-negm&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asia-negm&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ✨ Thanks for visiting! Stay tuned for my upcoming projects 🙌
 
